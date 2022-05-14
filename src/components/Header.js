@@ -106,6 +106,8 @@ class Header extends Component {
               <h1 className="mb-0">
                 {name}
               </h1>
+              <h3>{'<Full Stack>'} | React | Node.js | Express.js | MongoDB | MySQL </h3>
+              <h3>{'<OOP Programmer>'} Java Python JavaScript</h3>
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>

@@ -5,13 +5,13 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/welly091",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "url": "https://www.linkedin.com/in/welly-yu-wei-hsieh/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
